@@ -8,7 +8,7 @@ Installation
 
 Add to production.ini:
 
-    ckan.plugins = ckanext-scheming
+    ckan.plugins = scheming_datasets
     
     ## Scheming setting                                                       
     ## module-path:file to schemas being used                                
